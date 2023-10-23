@@ -1,0 +1,11 @@
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
+
+.boxes {
+  width: 50vh;
+  height: 50vh; /* 1:1 Aspect Ratio */
+}
+
+.symbolContainer:hover {
+  background-color: #0d6dfd49
+}
